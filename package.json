@@ -10,17 +10,24 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "rebornix.ruby",
+    "extensionPack": [
+		"rebornix.ruby",
         "castwide.solargraph",
         "karunamurti.rspec-snippets",
         "noku.rails-run-spec-vscode",
         "kaiwood.endwise",
         "msjsdiag.debugger-for-chrome",
-        "xabikos.javascriptsnippets",
         "andys8.jest-snippets",
         "orta.vscode-jest",
         "xabikos.reactsnippets",
         "waderyan.nodejs-extension-pack"
+	],
+    "extensionDependencies": [ 
+        "dbaeumer.vscode-eslint",
+        "xabikos.javascriptsnippets",
+        "jasonnutter.search-node-modules",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense"
     ]
 }
