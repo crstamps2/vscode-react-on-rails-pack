@@ -18,9 +18,9 @@
 	"rails",
 	"rspec",
 	"solargraph"
-    ]
+    ],
     "extensionPack": [
-	"rebornix.ruby",
+	    "rebornix.ruby",
         "castwide.solargraph",
         "karunamurti.rspec-snippets",
         "noku.rails-run-spec-vscode",
