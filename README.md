@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.jpg" alt="react on rails extension pack" width="150">
+  <img src="/images/logo.jpg" alt="react on rails extension pack" width="150">
   <br>
 </p>
 <p align="center">React on Rails Extension Pack</p>

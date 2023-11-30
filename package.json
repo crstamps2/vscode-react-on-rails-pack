@@ -5,7 +5,7 @@
     "version": "2.0.0",
     "license": "MIT",
     "publisher": "crstamps2",
-    "icon": "./images/logo.jpg",
+    "icon": "/images/logo.jpg",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -18,7 +18,7 @@
 	"react",
 	"rails",
 	"rspec",
-    "rails-lsp",
+    "ruby-lsp",
     "node",
     "npm",
     "yarn",
