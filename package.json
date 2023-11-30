@@ -6,6 +6,11 @@
     "license": "MIT",
     "publisher": "crstamps2",
     "icon": "/images/logo.jpg",
+    "homepage": "https://github.com/crstamps2/vscode-react-on-rails-pack/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crstamps2/vscode-react-on-rails-pack.git"
+      },
     "engines": {
         "vscode": "^1.30.0"
     },
