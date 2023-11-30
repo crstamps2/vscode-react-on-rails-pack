@@ -2,9 +2,10 @@
     "name": "vscode-react-on-rails-pack",
     "displayName": "React on Rails Extension Pack",
     "description": "A pack of extensions to support development of a React App with a Ruby on Rails backend.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "license": "MIT",
     "publisher": "crstamps2",
+    "icon": "./images/logo.jpg",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -17,25 +18,25 @@
 	"react",
 	"rails",
 	"rspec",
-	"solargraph"
+    "rails-lsp",
+    "node",
+    "npm",
+    "yarn",
+    "eslint"
     ],
     "extensionPack": [
-	    "rebornix.ruby",
-        "castwide.solargraph",
+	    "shopify.ruby-lsp",
         "karunamurti.rspec-snippets",
         "noku.rails-run-spec-vscode",
-        "kaiwood.endwise",
         "msjsdiag.debugger-for-chrome",
         "andys8.jest-snippets",
         "orta.vscode-jest",
-        "xabikos.reactsnippets",
-        "waderyan.nodejs-extension-pack"
+        "dbaeumer.vscode-eslint",
+        "christian-kohler.npm-intellisense",
+        "dsznajder.es7-react-js-snippets",
+        "gamunu.vscode-yarn"
     ],
     "extensionDependencies": [ 
-        "dbaeumer.vscode-eslint",
-        "xabikos.javascriptsnippets",
-        "jasonnutter.search-node-modules",
-        "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense"
     ]
